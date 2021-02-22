@@ -92,6 +92,9 @@
 *
 *> \date December 2016
 *
+*> This implementation of DLARTG has been deprecated with LAPACKv3.10.
+*> A better version of DLARTG was contributed by Ed Anderson and released in 3.10.
+*
 *> \ingroup OTHERauxiliary
 *
 *  =====================================================================
